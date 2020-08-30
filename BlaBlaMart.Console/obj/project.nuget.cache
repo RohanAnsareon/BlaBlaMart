@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "5ONr1m4lNealcDQFsIhVhgjwdhwIkwimXRplyWaP2bpeb9EzGEO2pk9jcfuQG4QA/fnQMI/GU4xRz+U2N8J/DA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ansar\\source\\repos\\BlaBlaMart\\BlaBlaMart.Console\\BlaBlaMart.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ansar\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.7\\microsoft.extensions.configuration.3.1.7.nupkg.sha512",
+    "C:\\Users\\ansar\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.7\\microsoft.extensions.configuration.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\ansar\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.7\\microsoft.extensions.configuration.fileextensions.3.1.7.nupkg.sha512",
+    "C:\\Users\\ansar\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.7\\microsoft.extensions.configuration.json.3.1.7.nupkg.sha512",
+    "C:\\Users\\ansar\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.7\\microsoft.extensions.fileproviders.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\ansar\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.7\\microsoft.extensions.fileproviders.physical.3.1.7.nupkg.sha512",
+    "C:\\Users\\ansar\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.7\\microsoft.extensions.filesystemglobbing.3.1.7.nupkg.sha512",
+    "C:\\Users\\ansar\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.7\\microsoft.extensions.primitives.3.1.7.nupkg.sha512",
+    "C:\\Users\\ansar\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

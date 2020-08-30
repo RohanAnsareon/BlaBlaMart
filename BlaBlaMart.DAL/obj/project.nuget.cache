@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SmN7uUghQzkTMxqECbIJSgkwQ4IXMMqCgxcIvsOmuAt08YHqWdabqpQpqcJ5XqC9rCENKUGGXt1JmoWy5A5SGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ansar\\source\\repos\\BlaBlaMart\\BlaBlaMart.DAL\\BlaBlaMart.DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ansar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ansar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ansar\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
