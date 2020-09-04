@@ -1,4 +1,0 @@
-C:\Users\ansar\source\repos\BlaBlaMart\BlaBlaMart.DAL\bin\Debug\netstandard2.0\BlaBlaMart.Core.dll
-C:\Users\ansar\source\repos\BlaBlaMart\BlaBlaMart.DAL\obj\Debug\netstandard2.0\BlaBlaMart.DAL.csprojAssemblyReference.cache
-C:\Users\ansar\source\repos\BlaBlaMart\BlaBlaMart.DAL\obj\Debug\netstandard2.0\BlaBlaMart.DAL.AssemblyInfoInputs.cache
-C:\Users\ansar\source\repos\BlaBlaMart\BlaBlaMart.DAL\obj\Debug\netstandard2.0\BlaBlaMart.DAL.AssemblyInfo.cs
