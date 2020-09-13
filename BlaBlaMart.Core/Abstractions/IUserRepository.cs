@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace BlaBlaMart.DAL.Abstractions {
+namespace BlaBlaMart.Core.Abstractions {
    public interface IUserRepository {
       int Create(User user);
       User Get(int id);

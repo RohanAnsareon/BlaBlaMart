@@ -1,5 +1,5 @@
-﻿using BlaBlaMart.Core.Models;
-using BlaBlaMart.DAL.Abstractions;
+﻿using BlaBlaMart.Core.Abstractions;
+using BlaBlaMart.Core.Models;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;

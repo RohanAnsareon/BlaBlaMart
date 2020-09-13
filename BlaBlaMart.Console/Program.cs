@@ -22,7 +22,6 @@ namespace BlaBlaMart.Console {
          productInterface.Menu();
 
          sc.ReadLine();
-
       }
    }
 }

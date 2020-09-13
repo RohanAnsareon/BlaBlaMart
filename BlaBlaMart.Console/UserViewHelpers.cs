@@ -1,5 +1,5 @@
 ﻿using BlaBlaMart.Core.Models;
-using BlaBlaMart.DAL.Abstractions;
+using BlaBlaMart.Core.Abstractions;
 using BlaBlaMart.DAL.Repositories;
 using System;
 using System.Collections.Generic;
