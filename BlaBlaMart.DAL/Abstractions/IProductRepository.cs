@@ -5,7 +5,7 @@ using System.Text;
 
 namespace BlaBlaMart.DAL.Abstractions {
    public interface IProductRepository {
-      void Create(Product product);
+      int Create(Product product);
       Product GetProduct(int id);
       Product[] GetAllProducts();
       Product[] GetProductsByCost(decimal min, decimal max);
